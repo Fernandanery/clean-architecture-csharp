@@ -4,7 +4,7 @@ Este é um projeto com fins de estudo referente ao desenvolvimento de aplicaçõ
 
 Além de explorar sobre Clean Architecture o conteúdo do curso engloba também:
 - Modelo de domínio anêmico
-- Modelo de separação de conceitos
+- Modelo separação de conceitos/responsabilidades
 - Dependency Inversion
 - Padrão Respository
 - Padrão MVC
