@@ -7,6 +7,7 @@ Além de explorar sobre Clean Architecture o conteúdo do curso engloba também:
 - Padrão Respository
 - Padrão MVC
 - Padrão CQRS
+- Padrão UnitOfWork
 - Arquitetura monolítica
 - Arquitetura em camadas
 - Arquitetura cebola
