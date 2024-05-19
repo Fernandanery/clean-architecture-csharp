@@ -3,6 +3,8 @@
 Este é um projeto com fins de estudo referente ao desenvolvimento de aplicações ASP.NET Core utilizando os princípios da Clean Architecture. O projeto abrange a criação de uma solução com cinco projetos separados, visando organizar a arquitetura de forma clara e escalável.
 
 Além de explorar sobre Clean Architecture o conteúdo do curso engloba também:
+- Modelo de domínio anêmico
+- Modelo de separação de conceitos
 - Dependency Inversion
 - Padrão Respository
 - Padrão MVC
