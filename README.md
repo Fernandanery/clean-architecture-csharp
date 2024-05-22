@@ -23,5 +23,6 @@ Este é um projeto com fins de estudo referente ao desenvolvimento de aplicaçõ
 - ASP.NET Core
 - Entity Framework
 - SQL Server
+- MediatR
 
 Curso: [Clean Architecture Essencial - ASP.NET Core com C#](https://www.udemy.com/course/clean-architecture-essencial-asp-net-core-com-c/)
