@@ -20,6 +20,13 @@ namespace CleanArchMvc.Domain.Entities
             Id = id;
             ValidateDomain(name);
         }
+
+        // Definindo método que permite alterar o nome de uma categoria
+        public void Update(string name)
+        {
+            ValidateDomain(name);
+        }
+
         public ICollection<Product> Products { get; private set;}
 
         // Lógica de validação do nome vazio ou quantidade de caracteres
