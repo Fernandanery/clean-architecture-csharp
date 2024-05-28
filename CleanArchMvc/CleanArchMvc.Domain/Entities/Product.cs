@@ -2,9 +2,8 @@
 
 namespace CleanArchMvc.Domain.Entities
 {
-    public sealed class Product
+    public sealed class Product : Entity
     {
-        public int Id { get; private set; }
         public string Name { get; private set; }
         public string Description { get; private set; }
         public decimal Price { get; private set; }
@@ -54,7 +53,6 @@ namespace CleanArchMvc.Domain.Entities
             Image = image;
 
         }
-
 
         public int CategoryId { get; set; }
         public Category Category { get; set; }
