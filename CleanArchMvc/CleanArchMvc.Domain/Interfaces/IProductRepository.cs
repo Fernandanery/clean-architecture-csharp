@@ -1,6 +1,14 @@
-﻿namespace CleanArchMvc.Domain.Interfaces
+﻿using CleanArchMvc.Domain.Entities;
+
+namespace CleanArchMvc.Domain.Interfaces
 {
-    internal interface IProductRepository
+    public interface IProductRepository
     {
+        Task<IEnumerable<Product>> GetProductAsync();
+        Task<Product> GetByIdAsync(int? id);
+        Task<Product> GetProductCategoryAsync(int? id);
+        Task<Product> CreateAsync(Product product);
+        Task<Product> UpdateAsync(Product product);
+        Task<Product> RemoveAsync(Product product);
     }
 }

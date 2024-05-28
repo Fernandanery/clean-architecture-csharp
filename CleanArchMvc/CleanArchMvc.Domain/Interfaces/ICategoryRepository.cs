@@ -1,6 +1,13 @@
-﻿namespace CleanArchMvc.Domain.Interfaces
+﻿using CleanArchMvc.Domain.Entities;
+
+namespace CleanArchMvc.Domain.Interfaces
 {
-    internal interface ICategoryRepository
+    public interface ICategoryRepository
     {
+        Task<IEnumerable<Category>> GetCategories();
+        Task<Category> GetByID(int? id);
+        Task<Category> Create(Category category);
+        Task<Category> Update(Category category);
+        Task<Category> Remove(Category category);
     }
 }
