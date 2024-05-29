@@ -17,35 +17,38 @@ namespace CleanArchMvc.Domain.Entities
 
         public Product(int id, string name, string description, decimal price, int stock, string image)
         {
-            DomainExceptionValidation.When(id > 0, "Invalid id value");
+            DomainExceptionValidation.When(id < 0, "Invalid Id value.");
             Id = id;
-
             ValidateDomain(name, description, price, stock, image);
         }
 
-        // Metodo para permitir atualizar os dados do produto
-        public void Update(string name, string description, decimal price, int stock, string image, int catedoryID)
+        public void Update(string name, string description, decimal price, int stock, string image, int categoryId)
         {
             ValidateDomain(name, description, price, stock, image);
-            CategoryId = catedoryID;
+            CategoryId = categoryId;
         }
-
 
         private void ValidateDomain(string name, string description, decimal price, int stock, string image)
         {
-            DomainExceptionValidation.When(string.IsNullOrEmpty(name), "Invalid name. Name is required");
-            DomainExceptionValidation.When(name.Length < 3, "Invalid name, too short, minimum 3 characters");
+            DomainExceptionValidation.When(string.IsNullOrEmpty(name),
+                "Invalid name. Name is required");
 
-            DomainExceptionValidation.When(string.IsNullOrEmpty(name), "Invalid description. Is required");
-            DomainExceptionValidation.When(description.Length < 5, "Invalid description, to short, minimum 5 characters");
+            DomainExceptionValidation.When(name.Length < 3,
+                "Invalid name, too short, minimum 3 characters");
+
+            DomainExceptionValidation.When(string.IsNullOrEmpty(description),
+                "Invalid description. Description is required");
+
+            DomainExceptionValidation.When(description.Length < 5,
+                "Invalid description, too short, minimum 5 characters");
 
             DomainExceptionValidation.When(price < 0, "Invalid price value");
 
             DomainExceptionValidation.When(stock < 0, "Invalid stock value");
 
-            DomainExceptionValidation.When(image.Length > 250, "Invalid image name, maximum 250 characters");
+            DomainExceptionValidation.When(image.Length > 250,
+                "Invalid image name, too long, maximum 250 characters");
 
-            // Caso não caia em nenhuma das validações acima, atribui os valores na propriedade
             Name = name;
             Description = description;
             Price = price;
@@ -56,6 +59,5 @@ namespace CleanArchMvc.Domain.Entities
 
         public int CategoryId { get; set; }
         public Category Category { get; set; }
-
     }
 }
