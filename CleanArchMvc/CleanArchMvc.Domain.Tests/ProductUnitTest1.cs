@@ -37,7 +37,9 @@ namespace CleanArchMvc.Domain.Tests
         public void CreateProduct_LongImageName_DomainExceptionLongImageName()
         {
             Action action = () => new Product(1, "Product Name", "Product Description", 9.99m,
-                99, "product image toooooooooooooooooooooooooooooooooooooooooooo loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooogggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg");
+                99, "product image toooooooooooooooooooooooooooooooooooooooooooo" +
+                " loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo" +
+                "oogggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg");
 
             action.Should()
                 .Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>()
@@ -49,6 +51,13 @@ namespace CleanArchMvc.Domain.Tests
         {
             Action action = () => new Product(1, "Product Name", "Product Description", 9.99m, 99, null);
             action.Should().NotThrow<CleanArchMvc.Domain.Validation.DomainExceptionValidation>();
+        }
+
+        [Fact]
+        public void CreateProduct_WithNullImageName_NoNullReferenceException()
+        {
+            Action action = () => new Product(1, "Product Name", "Product Description", 9.99m, 99, null);
+            action.Should().NotThrow<NullReferenceException>();
         }
 
         [Fact]
