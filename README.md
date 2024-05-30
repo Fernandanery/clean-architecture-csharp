@@ -14,6 +14,7 @@ Este é um projeto com fins de estudo referente ao desenvolvimento de aplicaçõ
 - Arquitetura monolítica
 - Arquitetura em camadas
 - Arquitetura cebola
+- Fluent Api
 - DDD: Domain Drive Design
 - Teste de unidade X-Unit
 
