@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BD46BF2-4121-4CEE-A01D-FEB3E958AC76}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\projetos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD46BF2-4121-4CEE-A01D-FEB3E958AC76}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|solutionrelative:cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FEF75AF-F845-443F-ACE8-57D823D478DC}|CleanArchMvcInfra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\projetos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvcinfra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEF75AF-F845-443F-ACE8-57D823D478DC}|CleanArchMvcInfra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvcinfra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7912627B-95EC-4D6F-ACD6-0579553D5516}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\projetos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7912627B-95EC-4D6F-ACD6-0579553D5516}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FEF75AF-F845-443F-ACE8-57D823D478DC}|CleanArchMvcInfra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\projetos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvcinfra.data\\entitiesconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEF75AF-F845-443F-ACE8-57D823D478DC}|CleanArchMvcInfra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvcinfra.data\\entitiesconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEF75AF-F845-443F-ACE8-57D823D478DC}|CleanArchMvcInfra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\projetos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvcinfra.data\\entitiesconfiguration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEF75AF-F845-443F-ACE8-57D823D478DC}|CleanArchMvcInfra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvcinfra.data\\entitiesconfiguration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductUnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "RelativeToolTip": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAA7wDkAAAAJAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvcInfra.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchMvcInfra.Data\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvcInfra.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CleanArchMvcInfra.Data\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T23:50:48.168Z",
+              "WhenOpened": "2024-05-30T00:40:48.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs*",
-              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Product.cs*",
-              "ViewState": "AQIAABEAAAAAAAAAAAA8wDEAAABIAAAA",
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvcInfra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchMvcInfra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvcInfra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "CleanArchMvcInfra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T23:49:11.86Z",
+              "WhenOpened": "2024-05-30T00:38:05.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvcInfra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchMvcInfra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvcInfra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "RelativeToolTip": "CleanArchMvcInfra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:31:49.08Z",
               "EditorCaption": ""
             }
           ]
