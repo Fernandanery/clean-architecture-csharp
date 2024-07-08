@@ -18,3 +18,5 @@ C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\refint\CleanArchMvc.Infra.IoC.dll
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.pdb
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
+C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache
