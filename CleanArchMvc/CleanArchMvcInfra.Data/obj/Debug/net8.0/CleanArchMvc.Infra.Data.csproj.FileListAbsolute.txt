@@ -1,4 +1,5 @@
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.deps.json
+C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.runtimeconfig.json
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.dll
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\bin\Debug\net8.0\CleanArchMvc.Domain.dll
@@ -13,6 +14,5 @@ C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.dll
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\refint\CleanArchMvc.Infra.Data.dll
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
-C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\ref\CleanArchMvc.Infra.Data.dll
-C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.runtimeconfig.json
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
+C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\ref\CleanArchMvc.Infra.Data.dll

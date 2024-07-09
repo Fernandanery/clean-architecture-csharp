@@ -8,8 +8,8 @@ namespace CleanArchMvc.Application.Mappings
     {
         public DomainToDTOMappingProfile()
         {
-            CreateMap<Category, CategoryDTO>().ReverseMap();
-            CreateMap<Product, ProductDTO>().ReverseMap();
+            CreateMap<Category, ProductDTO>().ReverseMap();
+            CreateMap<Product, CategoryDTO>().ReverseMap();
 
         }
     }
