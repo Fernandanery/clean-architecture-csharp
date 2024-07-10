@@ -3,10 +3,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchMvc.Infra.Data.Context
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : DbContext(options)
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : 
-            base(options) { }
 
         //Mapeamento ORM
         public DbSet<Product> Products { get; set; }

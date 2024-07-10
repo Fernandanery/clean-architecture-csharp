@@ -5,49 +5,42 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchMvc.Infra.Data.Repositories
 {
-    public class ProductRepository : IProductRepository
+    public class ProductRepository(ApplicationDbContext context) : IProductRepository
     {
-       ApplicationDbContext _productContext;
-
-        public ProductRepository(ApplicationDbContext context)
-        {
-            _productContext = context;                
-        }
-
         public async Task<Product> CreateAsync(Product product)
         {
-            _productContext.Products.Add(product);
-            await _productContext.SaveChangesAsync();
+            context.Products.Add(product);
+            await context.SaveChangesAsync();
             return product;
         }
 
         public async Task<Product> GetByIdAsync(int? id)
         {
-            return await _productContext.Products.FindAsync(id);
+            return await context.Products.FindAsync(id);
         }
         public async Task<Product> GetProductCategoryAsync(int? id)
         {
             // eager loading = carregamento adiantado
-            return await _productContext.Products.Include(c => c.Category)
+            return await context.Products.Include(c => c.Category)
                 .SingleOrDefaultAsync(p => p.Id == id);
         }
 
         public async Task<IEnumerable<Product>> GetProductAsync()
         {
-            return await _productContext.Products.ToListAsync();
+            return await context.Products.ToListAsync();
         }
 
         public async Task<Product> RemoveAsync(Product product)
         {
-            _productContext.Products.Remove(product);
-            await _productContext.SaveChangesAsync();
+            context.Products.Remove(product);
+            await context.SaveChangesAsync();
             return product;
         }
 
         public async Task<Product> UpdateAsync(Product product)
         {
-            _productContext.Products.Update(product);
-            await _productContext.SaveChangesAsync();
+            context.Products.Update(product);
+            await context.SaveChangesAsync();
             return product;
         }
     }

@@ -5,42 +5,36 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchMvc.Infra.Data.Repositories
 {
-    public class CategoryRepository : ICategoryRepository
+    public class CategoryRepository(ApplicationDbContext context) : ICategoryRepository
     {
-        ApplicationDbContext _categorycontext;
-        public CategoryRepository(ApplicationDbContext context)
-        {
-           _categorycontext = context;
-        }
-
         public async Task<Category> Create(Category category)
         {
-            _categorycontext.Add(category);
-            await _categorycontext.SaveChangesAsync();
+            context.Add(category);
+            await context.SaveChangesAsync();
             return category;
         }
 
         public async Task<Category> GetByID(int? id)
         {
-            return await _categorycontext.Categories.FindAsync(id);
+            return await context.Categories.FindAsync(id);
         }
 
         public async Task<IEnumerable<Category>> GetCategories()
         {
-            return await _categorycontext.Categories.ToListAsync();
+            return await context.Categories.ToListAsync();
         }
 
         public async Task<Category> Remove(Category category)
         {
-            _categorycontext.Remove(category);
-            await _categorycontext.SaveChangesAsync();
+            context.Remove(category);
+            await context.SaveChangesAsync();
             return category;
         }
 
         public async Task<Category> Update(Category category)
         {
-            _categorycontext.Update(category);
-            await _categorycontext.SaveChangesAsync();
+            context.Update(category);
+            await context.SaveChangesAsync();
             return category;
         }
     }

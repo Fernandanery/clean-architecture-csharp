@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\CleanArchMvc.Application\CleanArchMvc.Application.csproj" />
     <ProjectReference Include="..\CleanArchMvc.Domain\CleanArchMvc.Domain.csproj" />
     <ProjectReference Include="..\CleanArchMvcInfra.Data\CleanArchMvc.Infra.Data.csproj" />

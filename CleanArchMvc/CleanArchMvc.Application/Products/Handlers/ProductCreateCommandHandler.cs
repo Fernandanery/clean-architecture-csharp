@@ -5,15 +5,8 @@ using MediatR;
 
 namespace CleanArchMvc.Application.Products.Handlers
 {
-    public class ProductCreateCommandHandler : IRequestHandler<ProductCommand, Product>
+    public class ProductCreateCommandHandler(IProductRepository productRepository) : IRequestHandler<ProductCommand, Product>
     {
-        private readonly IProductRepository _productRepository;
-
-        public ProductCreateCommandHandler(IProductRepository productRepository)
-        {
-            _productRepository = productRepository;
-        }
-
         public async Task<Product> Handle(ProductCommand request, CancellationToken cancellationToken)
         {
             var product = new Product(request.Name,
@@ -29,7 +22,7 @@ namespace CleanArchMvc.Application.Products.Handlers
             else
             {
                 product.CategoryId = request.CategoryId;
-                return await _productRepository.CreateAsync(product);
+                return await productRepository.CreateAsync(product);
             }
 
         }

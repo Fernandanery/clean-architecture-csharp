@@ -6,15 +6,10 @@ using CleanArchMvc.Domain.Interfaces;
 
 namespace CleanArchMvc.Application.Services
 {
-    public class CategoryService : ICategoryService
+    public class CategoryService(ICategoryRepository categoryRepository, IMapper mapper) : ICategoryService
     {
-        private ICategoryRepository _categoryRepository;
-        private readonly IMapper _mapper;
-        public CategoryService(ICategoryRepository categoryRepository, IMapper mapper)
-        {
-            _categoryRepository = categoryRepository;
-            _mapper = mapper;
-        }
+        private ICategoryRepository _categoryRepository = categoryRepository;
+        private readonly IMapper _mapper = mapper;
 
         public async Task<IEnumerable<CategoryDTO>> GetCategories()
         {

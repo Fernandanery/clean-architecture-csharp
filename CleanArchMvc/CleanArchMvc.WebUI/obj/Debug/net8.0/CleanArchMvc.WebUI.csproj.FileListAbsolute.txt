@@ -144,3 +144,6 @@ C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.pdb
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.genruntimeconfig.cache
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\ref\CleanArchMvc.WebUI.dll
+C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net8.0\MediatR.dll
+C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

@@ -5,14 +5,9 @@ using MediatR;
 
 namespace CleanArchMvc.Application.Products.Handlers
 {
-    public class GetProductsQueryHandler : IRequestHandler<GetProductsQuery, IEnumerable<Product>>
+    public class GetProductsQueryHandler(IProductRepository repository) : IRequestHandler<GetProductsQuery, IEnumerable<Product>>
     {
-        private readonly IProductRepository _repository;
-
-        public GetProductsQueryHandler(IProductRepository repository)
-        {
-            _repository = repository;
-        }
+        private readonly IProductRepository _repository = repository;
 
         public async Task<IEnumerable<Product>> Handle(GetProductsQuery request, CancellationToken cancellationToken)
         {
