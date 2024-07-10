@@ -31,15 +31,6 @@ namespace CleanArchMvc.Application.Services
             return _mapper.Map<ProductDTO>(result);
         }
 
-        public async Task<ProductDTO> GetProductCategory(int? id)
-        {
-            var productByIdQuery = new GetProductByIdQuery(id.Value) ?? throw new ApplicationException($"Entity could not be leaded.");
-
-            var result = await _mediator.Send(productByIdQuery);
-
-            return _mapper.Map<ProductDTO>(result);
-        }
-
         public async Task Add(ProductDTO productDto)
         {
             var productCreateCommand = _mapper.Map<ProductCreateCommand>(productDto);

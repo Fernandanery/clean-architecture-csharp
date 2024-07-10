@@ -3,13 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArchMvc.WebUI.Controllers
 {
-    public class CategoriesController : Controller
+    public class CategoriesController(ICategoryService categoryService) : Controller
     {
-        private readonly ICategoryService _categoryService;
-        public CategoriesController(ICategoryService categoryService)
-        {
-            _categoryService = categoryService;  
-        }
+        private readonly ICategoryService _categoryService = categoryService;
 
         [HttpGet]
         public async Task<IActionResult> Index()

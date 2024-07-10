@@ -3,13 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArchMvc.WebUI.Controllers
 {
-    public class ProductsController : Controller
+    public class ProductsController(IProductService productService) : Controller
     {
-        private readonly IProductService _productService;
-        public ProductsController(IProductService productService)
-        {
-            _productService = productService;            
-        }
+        private readonly IProductService _productService = productService;
 
         [HttpGet]
         public async Task<IActionResult> Index()
