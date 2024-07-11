@@ -42,7 +42,7 @@ namespace CleanArchMvc.Application.DTOs
         [DisplayName("Product Image")]
         public string Image { get; set; }
 
-        public Category Category { get; set; }
+        public Category? Category { get; set; }
 
         // Data annotations de CategoryId
         [DisplayName("Categories")]
