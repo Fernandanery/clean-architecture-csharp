@@ -130,7 +130,6 @@ C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.RazorAssemblyInfo.cache
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.RazorAssemblyInfo.cs
-C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.sourcelink.json
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.CleanArchMvc.WebUI.Microsoft.AspNetCore.StaticWebAssets.props

@@ -6,10 +6,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace CleanArchMvc.WebUI.Controllers
 {
-    public class ProductsController(IProductService productService, ICategoryService categoryService) : Controller
+    public class ProductsController(IProductService productService, ICategoryService categoryService, IWebHostEnvironment enviroment) : Controller
     {
         private readonly IProductService _productService = productService;
         private readonly ICategoryService _categoryService = categoryService;
+        private readonly IWebHostEnvironment _enviroment = enviroment;
 
         [HttpGet]
         public async Task<IActionResult> Index()
@@ -95,6 +96,25 @@ namespace CleanArchMvc.WebUI.Controllers
             await _productService.Remove(id);
 
             return RedirectToAction(nameof(Index));
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var productDto = await _productService.GetById(id);
+
+            if (productDto == null)
+                return NotFound();
+
+            var wwwroot = _enviroment.WebRootPath;
+            var image = Path.Combine(wwwroot, "images\\" + productDto.Image);
+            var exists = System.IO.File.Exists(image);
+            ViewBag.ImageExist = exists;
+
+            return View(productDto);
         }
     }
 }
