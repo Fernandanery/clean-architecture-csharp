@@ -13,24 +13,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\borracha1.jpeg",
-      "PackagePath": "staticwebassets\\images\\borracha1.jpeg"
+      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\borracha1.jpg",
+      "PackagePath": "staticwebassets\\images\\borracha1.jpg"
     },
     {
-      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\caderno1.jpeg",
-      "PackagePath": "staticwebassets\\images\\caderno1.jpeg"
+      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\caderno1.jpg",
+      "PackagePath": "staticwebassets\\images\\caderno1.jpg"
     },
     {
-      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\calculadora1.jpeg",
-      "PackagePath": "staticwebassets\\images\\calculadora1.jpeg"
+      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\calculadora.jpg",
+      "PackagePath": "staticwebassets\\images\\calculadora.jpg"
     },
     {
-      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\estojo1.jpeg",
-      "PackagePath": "staticwebassets\\images\\estojo1.jpeg"
+      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\catalog.jpg",
+      "PackagePath": "staticwebassets\\images\\catalog.jpg"
     },
     {
-      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\noimage.jpeg",
-      "PackagePath": "staticwebassets\\images\\noimage.jpeg"
+      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\estojo1.jpg",
+      "PackagePath": "staticwebassets\\images\\estojo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\istockphoto-1302392412-612x612.jpg",
+      "PackagePath": "staticwebassets\\images\\istockphoto-1302392412-612x612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\noimage.jpg",
+      "PackagePath": "staticwebassets\\images\\noimage.jpg"
     },
     {
       "Id": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\js\\site.js",

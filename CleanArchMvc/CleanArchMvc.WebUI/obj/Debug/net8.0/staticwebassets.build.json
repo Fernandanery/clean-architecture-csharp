@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OPfV2QwEXHo1F96dYhHHRvXEoor+75iHanMk2iLTU0g=",
+  "Hash": "gmvUjzyir0q2SUsKh2jy4XXD1yTw+pLY5gUfIYyc0HA=",
   "Source": "CleanArchMvc.WebUI",
   "BasePath": "_content/CleanArchMvc.WebUI",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\borracha1.jpeg",
+      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\borracha1.jpg",
       "SourceId": "CleanArchMvc.WebUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\",
       "BasePath": "_content/CleanArchMvc.WebUI",
-      "RelativePath": "images/borracha1.jpeg",
+      "RelativePath": "images/borracha1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\borracha1.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\borracha1.jpg"
     },
     {
-      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\caderno1.jpeg",
+      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\caderno1.jpg",
       "SourceId": "CleanArchMvc.WebUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\",
       "BasePath": "_content/CleanArchMvc.WebUI",
-      "RelativePath": "images/caderno1.jpeg",
+      "RelativePath": "images/caderno1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\caderno1.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\caderno1.jpg"
     },
     {
-      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\calculadora1.jpeg",
+      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\calculadora.jpg",
       "SourceId": "CleanArchMvc.WebUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\",
       "BasePath": "_content/CleanArchMvc.WebUI",
-      "RelativePath": "images/calculadora1.jpeg",
+      "RelativePath": "images/calculadora.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\calculadora1.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\calculadora.jpg"
     },
     {
-      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\estojo1.jpeg",
+      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\catalog.jpg",
       "SourceId": "CleanArchMvc.WebUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\",
       "BasePath": "_content/CleanArchMvc.WebUI",
-      "RelativePath": "images/estojo1.jpeg",
+      "RelativePath": "images/catalog.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\estojo1.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\catalog.jpg"
     },
     {
-      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\noimage.jpeg",
+      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\estojo1.jpg",
       "SourceId": "CleanArchMvc.WebUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\",
       "BasePath": "_content/CleanArchMvc.WebUI",
-      "RelativePath": "images/noimage.jpeg",
+      "RelativePath": "images/estojo1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,45 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\noimage.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\estojo1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\istockphoto-1302392412-612x612.jpg",
+      "SourceId": "CleanArchMvc.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\",
+      "BasePath": "_content/CleanArchMvc.WebUI",
+      "RelativePath": "images/istockphoto-1302392412-612x612.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\istockphoto-1302392412-612x612.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\noimage.jpg",
+      "SourceId": "CleanArchMvc.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\",
+      "BasePath": "_content/CleanArchMvc.WebUI",
+      "RelativePath": "images/noimage.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\noimage.jpg"
     },
     {
       "Identity": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\js\\site.js",
