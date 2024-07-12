@@ -14,14 +14,14 @@ namespace CleanArchMvc.Application.DTOs
         [MinLength(3)] 
         [MaxLength(100)]
         [DisplayName("Name")]
-        public string Name { get; set; }
+        public string? Name { get; set; }
 
         // Data annotations de name
         [Required(ErrorMessage = "The description is required")]
         [MinLength(5)]
         [MaxLength(200)]
         [DisplayName("Description")]
-        public string Description { get; set; }
+        public string? Description { get; set; }
 
         // Data annotations de price
         [Required(ErrorMessage = "The price is required")]
@@ -40,7 +40,7 @@ namespace CleanArchMvc.Application.DTOs
         // Data annotations de Image
         [MaxLength(250)]
         [DisplayName("Product Image")]
-        public string Image { get; set; }
+        public string? Image { get; set; }
 
         public Category? Category { get; set; }
 
