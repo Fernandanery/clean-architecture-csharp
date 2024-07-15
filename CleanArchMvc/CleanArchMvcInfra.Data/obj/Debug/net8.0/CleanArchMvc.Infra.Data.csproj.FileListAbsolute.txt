@@ -9,7 +9,6 @@ C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.AssemblyInfoInputs.cache
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.AssemblyInfo.cs
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.csproj.CoreCompileInputs.cache
-C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.sourcelink.json
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArc.BBB464D1.Up2Date
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.dll
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\refint\CleanArchMvc.Infra.Data.dll
