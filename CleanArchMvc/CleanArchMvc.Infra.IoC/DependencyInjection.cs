@@ -47,7 +47,7 @@ namespace CleanArchMvc.Infra.IoC
             services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
 
             // registrar o auto mapper
-            services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
+            services.AddAutoMapper(typeof(DomainToDtoMappingProfile));
 
             var myhandlers = AppDomain.CurrentDomain.Load("CleanArchMvc.Application");
             services.AddMediatR(myhandlers);

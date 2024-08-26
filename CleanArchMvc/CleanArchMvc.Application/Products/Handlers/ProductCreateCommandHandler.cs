@@ -5,26 +5,21 @@ using MediatR;
 
 namespace CleanArchMvc.Application.Products.Handlers
 {
-    public class ProductCreateCommandHandler(IProductRepository productRepository) : IRequestHandler<ProductCommand, Product>
+    public class ProductCreateCommandHandler(IProductRepository productRepository)
+        : IRequestHandler<ProductCreateCommand, Product>
+
     {
-        public async Task<Product> Handle(ProductCommand request, CancellationToken cancellationToken)
+        public async Task<Product> Handle(ProductCreateCommand request, CancellationToken cancellationToken)
         {
             var product = new Product(request.Name,
-                                      request.Description,
-                                      request.Price,
-                                      request.Stock,
-                                      request.Image);
-
-            if (product == null)
+                                    request.Description,
+                                    request.Price,
+                                    request.Stock,
+                                    request.Image)
             {
-                throw new ApplicationException($"Error creating entity");
-            }
-            else
-            {
-                product.CategoryId = request.CategoryId;
-                return await productRepository.CreateAsync(product);
-            }
+                CategoryId = request.CategoryId
+            };
 
+            return await productRepository.CreateAsync(product);
         }
-    }
-}
+    }}

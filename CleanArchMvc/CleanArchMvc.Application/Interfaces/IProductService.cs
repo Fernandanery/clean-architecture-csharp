@@ -4,10 +4,10 @@ namespace CleanArchMvc.Application.Interfaces
 {
     public interface IProductService
     {
-        Task<IEnumerable<ProductDTO>> GetProducts();
-        Task<ProductDTO> GetById(int? id);
-        Task Add(ProductDTO productDto);
-        Task Update(ProductDTO productDto);
+        Task<IEnumerable<ProductDto>> GetProducts();
+        Task<ProductDto> GetById(int? id);
+        Task Add(ProductDto productDto);
+        Task Update(ProductDto productDto);
         Task Remove(int? id);
     }
 }

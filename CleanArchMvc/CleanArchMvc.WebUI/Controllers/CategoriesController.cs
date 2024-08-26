@@ -24,7 +24,7 @@ namespace CleanArchMvc.WebUI.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(CategoryDTO category)
+        public async Task<IActionResult> Create(CategoryDto category)
         {
             if (ModelState.IsValid)
             {
@@ -51,7 +51,7 @@ namespace CleanArchMvc.WebUI.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Edit(CategoryDTO categoryDto)
+        public async Task<IActionResult> Edit(CategoryDto categoryDto)
         {
             if (ModelState.IsValid)
             {

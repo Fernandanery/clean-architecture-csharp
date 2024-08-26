@@ -4,12 +4,12 @@ using CleanArchMvc.Application.Products.Commands;
 
 namespace CleanArchMvc.Application.Mappings
 {
-    public class DTOToCommandMappingProfile : Profile
+    public class DtoToCommandMappingProfile : Profile
     {
-        public DTOToCommandMappingProfile()
+        public DtoToCommandMappingProfile()
         {
-            CreateMap<ProductDTO, ProductCreateCommand>();
-            CreateMap<ProductDTO, ProductUpdateCommand>();
+            CreateMap<ProductDto, ProductCreateCommand>();
+            CreateMap<ProductDto, ProductUpdateCommand>();
 
         }
     }

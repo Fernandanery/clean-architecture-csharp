@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace CleanArchMvc.Application.DTOs
 {
-    public class CategoryDTO
+    public class CategoryDto
     {
         public int Id { get; set; }
 

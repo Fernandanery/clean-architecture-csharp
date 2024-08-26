@@ -30,7 +30,7 @@ namespace CleanArchMvc.WebUI.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(ProductDTO productDto)
+        public async Task<IActionResult> Create(ProductDto productDto)
         {
             if (ModelState.IsValid)
             {
@@ -65,7 +65,7 @@ namespace CleanArchMvc.WebUI.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Edit(ProductDTO productDto)
+        public async Task<IActionResult> Edit(ProductDto productDto)
         {
             if (ModelState.IsValid)
             {
