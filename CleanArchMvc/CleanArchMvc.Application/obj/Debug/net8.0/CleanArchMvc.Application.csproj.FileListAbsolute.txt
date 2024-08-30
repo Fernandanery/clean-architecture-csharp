@@ -29,3 +29,4 @@ C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\refint\CleanArchMvc.Application.dll
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.pdb
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\ref\CleanArchMvc.Application.dll
+C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.sourcelink.json

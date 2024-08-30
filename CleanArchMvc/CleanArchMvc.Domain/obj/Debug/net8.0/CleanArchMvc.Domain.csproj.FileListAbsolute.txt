@@ -21,3 +21,4 @@ C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\refint\CleanArchMvc.Domain.dll
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.pdb
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\ref\CleanArchMvc.Domain.dll
+C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.sourcelink.json

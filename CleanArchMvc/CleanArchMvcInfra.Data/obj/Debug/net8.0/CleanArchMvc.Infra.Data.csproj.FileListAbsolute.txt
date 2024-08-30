@@ -32,3 +32,4 @@ C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\ref\CleanArchMvc.Infra.Data.dll
+C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvcInfra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.sourcelink.json
