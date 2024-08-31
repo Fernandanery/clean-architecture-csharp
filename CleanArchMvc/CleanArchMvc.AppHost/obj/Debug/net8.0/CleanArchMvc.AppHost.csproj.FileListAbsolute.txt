@@ -50,3 +50,4 @@ C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.AppHost\obj\Debug\net8.0\CleanArchMvc.AppHost.pdb
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.AppHost\obj\Debug\net8.0\CleanArchMvc.AppHost.genruntimeconfig.cache
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.AppHost\obj\Debug\net8.0\ref\CleanArchMvc.AppHost.dll
+C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.AppHost\obj\Debug\net8.0\Aspire\references\CleanArchMvc_WebApi.ProjectMetadata.g.cs
