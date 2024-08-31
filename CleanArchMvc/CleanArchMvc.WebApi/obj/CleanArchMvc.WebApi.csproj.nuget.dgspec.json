@@ -242,6 +242,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
+              },
               "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {
                 "projectPath": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj"
               }

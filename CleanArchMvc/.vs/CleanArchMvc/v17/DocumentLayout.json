@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B6139C47-479E-4FAD-A0D2-799C9F803198}|CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\projetos\\estudos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6139C47-479E-4FAD-A0D2-799C9F803198}|CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj|solutionrelative:cleanarchmvc.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6139C47-479E-4FAD-A0D2-799C9F803198}|CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\projetos\\estudos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.webapi\\cleanarchmvc.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B6139C47-479E-4FAD-A0D2-799C9F803198}|CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj|solutionrelative:cleanarchmvc.webapi\\cleanarchmvc.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1B79128-3DEE-46F7-BC9F-4BEEA284B563}|CleanArchMvc.AppHost\\CleanArchMvc.AppHost.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\projetos\\estudos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1B79128-3DEE-46F7-BC9F-4BEEA284B563}|CleanArchMvc.AppHost\\CleanArchMvc.AppHost.csproj|solutionrelative:cleanarchmvc.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25E816A5-0409-4484-B86E-165EC665E5E8}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\projetos\\estudos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.webui\\cleanarchmvc.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{25E816A5-0409-4484-B86E-165EC665E5E8}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\cleanarchmvc.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 197,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,58 +66,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\Program.cs",
-              "RelativeToolTip": "CleanArchMvc.WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T00:26:41.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CleanArchMvc.WebApi",
-              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj",
-              "RelativeDocumentMoniker": "CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj",
-              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj",
-              "RelativeToolTip": "CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-31T00:25:01.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CleanArchMvc.WebUI",
-              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
-              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
-              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
-              "RelativeToolTip": "CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-31T00:24:41.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.AppHost\\Program.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.AppHost\\Program.cs",
-              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.AppHost\\Program.cs",
-              "RelativeToolTip": "CleanArchMvc.AppHost\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T00:19:27.679Z",
-              "EditorCaption": ""
             }
           ]
         }

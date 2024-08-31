@@ -1,6 +1,9 @@
+using CleanArchMvc.Infra.IoC;
 using CleanArchMvc.WebUI.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddInfrastructureApi(builder.Configuration);
 
 // Add services to the container.
 

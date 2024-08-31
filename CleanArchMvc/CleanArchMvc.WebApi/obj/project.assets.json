@@ -7677,6 +7677,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Aspire.Hosting.AppHost >= 8.1.0",
+      "CleanArchMvc.Infra.IoC >= 1.0.0",
       "CleanArchMvc.WebUI >= 1.0.0",
       "OpenTelemetry >= 1.9.0",
       "OpenTelemetry.Api >= 1.9.0",
@@ -7719,6 +7720,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
+              "projectPath": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
+            },
             "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {
               "projectPath": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj"
             }
