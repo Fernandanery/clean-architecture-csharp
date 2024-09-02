@@ -27,8 +27,4 @@
     <ProjectReference Include="..\CleanArchMvc.WebUI\CleanArchMvc.WebUI.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

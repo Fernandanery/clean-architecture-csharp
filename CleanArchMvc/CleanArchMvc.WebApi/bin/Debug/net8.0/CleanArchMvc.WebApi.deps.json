@@ -9,6 +9,7 @@
       "CleanArchMvc.WebApi/1.0.0": {
         "dependencies": {
           "Aspire.Hosting.AppHost": "8.1.0",
+          "CleanArchMvc.Infra.IoC": "1.0.0",
           "CleanArchMvc.WebUI": "1.0.0",
           "OpenTelemetry": "1.9.0",
           "OpenTelemetry.Api": "1.9.0",
