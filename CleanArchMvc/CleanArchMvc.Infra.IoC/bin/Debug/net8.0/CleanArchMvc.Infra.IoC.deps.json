@@ -1302,12 +1302,18 @@
           "MediatR": "11.0.0"
         },
         "runtime": {
-          "CleanArchMvc.Application.dll": {}
+          "CleanArchMvc.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CleanArchMvc.Domain/1.0.0": {
         "runtime": {
-          "CleanArchMvc.Domain.dll": {}
+          "CleanArchMvc.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CleanArchMvc.Infra.Data/1.0.0": {
@@ -1319,7 +1325,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6"
         },
         "runtime": {
-          "CleanArchMvc.Infra.Data.dll": {}
+          "CleanArchMvc.Infra.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
