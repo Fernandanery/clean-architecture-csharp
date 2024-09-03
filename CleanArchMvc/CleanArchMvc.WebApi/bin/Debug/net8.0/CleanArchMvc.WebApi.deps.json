@@ -1670,12 +1670,18 @@
           "MediatR": "11.0.0"
         },
         "runtime": {
-          "CleanArchMvc.Application.dll": {}
+          "CleanArchMvc.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CleanArchMvc.Domain/1.0.0": {
         "runtime": {
-          "CleanArchMvc.Domain.dll": {}
+          "CleanArchMvc.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CleanArchMvc.Infra.Data/1.0.0": {
@@ -1687,7 +1693,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6"
         },
         "runtime": {
-          "CleanArchMvc.Infra.Data.dll": {}
+          "CleanArchMvc.Infra.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CleanArchMvc.Infra.IoC/1.0.0": {
@@ -1698,7 +1707,10 @@
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.0.0"
         },
         "runtime": {
-          "CleanArchMvc.Infra.IoC.dll": {}
+          "CleanArchMvc.Infra.IoC.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CleanArchMvc.WebUI/1.0.0": {
@@ -1717,7 +1729,10 @@
           "Serilog.Sinks.OpenTelemetry": "1.2.0"
         },
         "runtime": {
-          "CleanArchMvc.WebUI.dll": {}
+          "CleanArchMvc.WebUI.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
