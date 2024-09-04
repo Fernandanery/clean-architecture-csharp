@@ -18,14 +18,13 @@ using System.Reflection;
     "t\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.1.0\\tools\\ex" +
     "t\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\estudos\\c" +
-    "sharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Program Files\\dotnet\\packs\\Aspire.Dashboard.Sdk.win-x64\\8.1.0\\tools\\Aspire.Das" +
     "hboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchMvc.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d43e6690b09bfe1e546623f808d2797a51db1ae4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a53a84d6de4a728a6d3dbb9e46ff8f0fa1c9fd18")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchMvc.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchMvc.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

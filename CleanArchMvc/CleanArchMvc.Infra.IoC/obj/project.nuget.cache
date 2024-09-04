@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8U1VMCVg9Iw=",
+  "dgSpecHash": "i3E8vlvNJvA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+  "projectFilePath": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4960031201\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\4960031201\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

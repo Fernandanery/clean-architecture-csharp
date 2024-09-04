@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class CleanArchMvc_WebApi : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebApi\CleanArchMvc.WebApi.csproj""";
+    public string ProjectPath => """C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebApi\CleanArchMvc.WebApi.csproj""";
 }

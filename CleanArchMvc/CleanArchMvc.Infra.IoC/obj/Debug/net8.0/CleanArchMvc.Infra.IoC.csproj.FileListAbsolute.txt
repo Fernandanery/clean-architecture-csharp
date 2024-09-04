@@ -41,3 +41,25 @@ C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\ref\CleanArchMvc.Infra.IoC.dll
 C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.sourcelink.json
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Infra.IoC.deps.json
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Infra.IoC.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Infra.IoC.pdb
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Application.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Infra.Data.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Application.pdb
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.sourcelink.json
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArc.C4193000.Up2Date
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\refint\CleanArchMvc.Infra.IoC.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.pdb
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\ref\CleanArchMvc.Infra.IoC.dll

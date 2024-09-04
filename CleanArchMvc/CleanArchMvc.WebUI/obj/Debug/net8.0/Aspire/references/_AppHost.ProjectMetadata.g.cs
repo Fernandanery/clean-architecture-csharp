@@ -8,5 +8,5 @@ namespace Projects;
 public class CleanArchMvc_WebUI
 {
     private CleanArchMvc_WebUI() { }
-    public static string ProjectPath => """C:\Users\4960031201\OneDrive - Via Varejo S.A\Área de Trabalho\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI""";
+    public static string ProjectPath => """C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI""";
 }

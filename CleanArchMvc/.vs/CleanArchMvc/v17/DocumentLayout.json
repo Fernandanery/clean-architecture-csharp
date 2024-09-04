@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6139C47-479E-4FAD-A0D2-799C9F803198}|CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj|c:\\projetos\\estudos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6139C47-479E-4FAD-A0D2-799C9F803198}|CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj|solutionrelative:cleanarchmvc.webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 197,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,7 +70,20 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebApi\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "CleanArchMvc.WebApi\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:48:42.969Z",
+              "EditorCaption": ""
             }
           ]
         }

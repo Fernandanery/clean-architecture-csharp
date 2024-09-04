@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dOn+Y5tvMcc=",
+  "dgSpecHash": "ueLXVhdjqN0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\Área de Trabalho\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj",
+  "projectFilePath": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4960031201\\.nuget\\packages\\aspire.hosting\\8.1.0\\aspire.hosting.8.1.0.nupkg.sha512",
     "C:\\Users\\4960031201\\.nuget\\packages\\aspire.hosting.apphost\\8.1.0\\aspire.hosting.apphost.8.1.0.nupkg.sha512",
