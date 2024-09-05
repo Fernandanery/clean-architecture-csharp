@@ -4,6 +4,7 @@ using CleanArchMvc.WebUI.Extensions;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddInfrastructureApi(builder.Configuration);
+builder.Services.AddInfrastructureJwt(builder.Configuration);
 
 // Add services to the container.
 
