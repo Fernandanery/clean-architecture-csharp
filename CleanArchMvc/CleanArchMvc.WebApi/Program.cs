@@ -5,6 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddInfrastructureApi(builder.Configuration);
 builder.Services.AddInfrastructureJwt(builder.Configuration);
+builder.Services.AddInfrastructureSwagger();
 
 // Add services to the container.
 

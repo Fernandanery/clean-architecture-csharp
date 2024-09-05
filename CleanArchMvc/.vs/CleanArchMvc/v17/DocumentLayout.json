@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE7B2B47-6A3A-4244-AA59-84C8B99FB630}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|c:\\projetos\\estudos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.infra.ioc\\dependencyinjectionjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE7B2B47-6A3A-4244-AA59-84C8B99FB630}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|solutionrelative:cleanarchmvc.infra.ioc\\dependencyinjectionjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6139C47-479E-4FAD-A0D2-799C9F803198}|CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj|c:\\projetos\\estudos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6139C47-479E-4FAD-A0D2-799C9F803198}|CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj|solutionrelative:cleanarchmvc.webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6139C47-479E-4FAD-A0D2-799C9F803198}|CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj|c:\\projetos\\estudos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6139C47-479E-4FAD-A0D2-799C9F803198}|CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj|solutionrelative:cleanarchmvc.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DE7B2B47-6A3A-4244-AA59-84C8B99FB630}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|c:\\projetos\\estudos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.infra.ioc\\dependencyinjectionswagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7B2B47-6A3A-4244-AA59-84C8B99FB630}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|solutionrelative:cleanarchmvc.infra.ioc\\dependencyinjectionswagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6139C47-479E-4FAD-A0D2-799C9F803198}|CleanArchMvc.WebApi\\CleanArchMvc.WebApi.csproj|c:\\projetos\\estudos\\csharp-clean-architecture\\cleanarchmvc\\cleanarchmvc.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 197,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,41 +82,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebApi\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "CleanArchMvc.WebApi\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwCsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:00:13.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjectionSwagger.cs",
+              "DocumentMoniker": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjectionSwagger.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Infra.IoC\\DependencyInjectionSwagger.cs",
+              "ToolTip": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjectionSwagger.cs",
+              "RelativeToolTip": "CleanArchMvc.Infra.IoC\\DependencyInjectionSwagger.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:52.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.WebApi\\Program.cs",
               "ToolTip": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\Program.cs",
               "RelativeToolTip": "CleanArchMvc.WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:52:38.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "CleanArchMvc.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.WebApi\\appsettings.json",
-              "RelativeToolTip": "CleanArchMvc.WebApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T19:47:51.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DependencyInjectionJwt.cs",
-              "DocumentMoniker": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjectionJwt.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Infra.IoC\\DependencyInjectionJwt.cs",
-              "ToolTip": "C:\\Projetos\\estudos\\csharp-clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjectionJwt.cs",
-              "RelativeToolTip": "CleanArchMvc.Infra.IoC\\DependencyInjectionJwt.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T14:08:00.441Z",
+              "WhenOpened": "2024-09-05T20:01:48.15Z",
               "EditorCaption": ""
             }
           ]

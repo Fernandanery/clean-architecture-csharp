@@ -550,3 +550,9 @@ C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\ob
 C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.pdb
 C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.genruntimeconfig.cache
 C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\ref\CleanArchMvc.WebUI.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.MvcApplicationPartsAssemblyInfo.cs

@@ -410,3 +410,4 @@ C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebApi\o
 C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebApi\obj\Debug\net8.0\CleanArchMvc.WebApi.pdb
 C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebApi\obj\Debug\net8.0\CleanArchMvc.WebApi.genruntimeconfig.cache
 C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebApi\obj\Debug\net8.0\ref\CleanArchMvc.WebApi.dll
+C:\Projetos\estudos\csharp-clean-architecture\CleanArchMvc\CleanArchMvc.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
