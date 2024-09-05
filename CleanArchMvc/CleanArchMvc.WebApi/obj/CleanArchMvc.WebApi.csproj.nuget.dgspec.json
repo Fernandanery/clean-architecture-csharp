@@ -270,6 +270,10 @@
               "target": "Package",
               "version": "[8.1.0, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "OpenTelemetry": {
               "target": "Package",
               "version": "[1.9.0, )"
