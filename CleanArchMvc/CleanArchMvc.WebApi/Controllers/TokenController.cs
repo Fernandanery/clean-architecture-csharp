@@ -53,43 +53,42 @@ namespace CleanArchMvc.WebApi.Controllers
 
         private UserToken GenerateToken(LoginModel userInfo)
         {
-            // declarações do usuário
+            //declarações do usuário
             var claims = new[]
             {
                 new Claim("email", userInfo.Email),
-                new Claim("meuValor", "qualquer coisa"),
+                new Claim("meuvalor", "oque voce quiser"),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
 
-            // Gerar chave privada para assinar o token
+            //gerar chave privada para assinar o token
             var privateKey = new SymmetricSecurityKey(
                 Encoding.UTF8.GetBytes(_configuration["Jwt:SecretKey"]));
 
-            // Gerar a assinatura digital
+            //gerar a assinatura digital
             var credentials = new SigningCredentials(privateKey, SecurityAlgorithms.HmacSha256);
 
-            //Definir tempo de expiração do token
-            var expirate = DateTime.UtcNow.AddMinutes(10);
+            //definir o tempo de expiração
+            var expiration = DateTime.UtcNow.AddMinutes(10);
 
-            //Gerar o token
-            var token = new JwtSecurityToken
-            (
-                // emissor
+            //gerar o token
+            JwtSecurityToken token = new JwtSecurityToken(
+                //emissor
                 issuer: _configuration["Jwt:Issuer"],
-                // audiencia
-                audience: _configuration["Jwt: Audience"],
+                //audiencia
+                audience: _configuration["Jwt:Audience"],
                 //claims
                 claims: claims,
-                // Data de expiração
-                expires: expirate,
-                // asinatura digital
+                //data de expiracao
+                expires: expiration,
+                //assinatura digital
                 signingCredentials: credentials
             );
 
             return new UserToken()
             {
                 Token = new JwtSecurityTokenHandler().WriteToken(token),
-                Expiration = expirate
+                Expiration = expiration
             };
         }
     }
